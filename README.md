@@ -19,7 +19,7 @@
 - You don’t have to handle precision
 - You don’t have to handle the length modifiers
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 1. Education is when you read the fine print. Experience is what you get if you don't
 
@@ -32,7 +32,7 @@
 - You don’t have to handle precision
 - You don’t have to handle the length modifiers
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 2. With a face like mine, I do better in print
 
@@ -42,7 +42,7 @@ Write a function that prints strings, followed by a new line.
 
 - b: the unsigned int argument is converted to binary
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 3. What one has not experienced, one will never understand in print
 
@@ -57,13 +57,13 @@ Write a function that prints strings, followed by a new line.
 - You don’t have to handle precision
 - You don’t have to handle the length modifiers
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 4. Nothing in fine print is ever good news
 
 * Use a local buffer of 1024 chars in order to call `write` as little as possible.
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 5. My weakness is wearing too much leopard print
 
@@ -72,7 +72,7 @@ Write a function that prints strings, followed by a new line.
 - `S` : prints the string.
 - Non printable characters (0 < ASCII value < 32 or >= 127) are printed this way: `\x`, followed by the ASCII code value in hexadecimal (upper case - always 2 characters)
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 6. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print
 
@@ -83,7 +83,7 @@ Write a function that prints strings, followed by a new line.
 - You don’t have to handle precision
 - You don’t have to handle the length modifiers
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 7. The big print gives and the small print takes away
 
@@ -93,7 +93,7 @@ Write a function that prints strings, followed by a new line.
 - `space`
 - `#`
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 8. Sarcasm is lost in print
 
@@ -103,31 +103,31 @@ Write a function that prints strings, followed by a new line.
 - `h`
 Conversion specifiers to handle: `d`, `i`, `u`, `o`, `x`, `X`
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 9. Print some money and give it to us for the rain forests
 
 * Handle the field width for non-custom conversion specifiers.
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 10. The negative is the equivalent of the composer's score, and the print the performance
 
 * Handle the precision for non-custom conversion specifiers.
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 11. It's depressing when you're still around and your albums are out of print
 
 * Handle the `0` flag character for non-custom conversion specifiers.
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 12. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection
 
 * Handle the `-` flag character for non-custom conversion specifiers.
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 13. Print is the sharpest and the strongest weapon of our party
 
@@ -135,7 +135,7 @@ Conversion specifiers to handle: `d`, `i`, `u`, `o`, `x`, `X`
 
 - `r` : prints the reversed string
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 14. The flood of print has turned reading into a process of gulping rather than savoring
 
@@ -143,10 +143,10 @@ Conversion specifiers to handle: `d`, `i`, `u`, `o`, `x`, `X`
 
 - `R`: prints the rot13'ed string
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)
 
 ## 15. *
 
 * All the above options work well together.
 
-**Solution:** [printf](./)
+**Solution:** [printf](https://github.com/globalsmile/printf)

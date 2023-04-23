@@ -5,7 +5,6 @@ void print_buffer(char buffer[], int *buff_ind);
 * _printf - Printf function
  * @format: A character string
 * Return: Number of characters printed
-* Description: get_width, get_precision, get_size, handle_print is used to obtain the values of int func
 */
 int _printf(const char *format, ...)
 {
@@ -60,7 +59,7 @@ return (printed_chars);
 */
 void print_buffer(char buffer[], int *buff_ind)
 {
-	if (*buff_ind > 0)
+if	(*buff_ind > 0)
 write(1, &buffer[0], *buff_ind);
 *buff_ind = 0;
-}	
+}

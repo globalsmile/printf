@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
-
+#include "/root/printf/_printf_write_handlers.c"
 /**
  * print_char - Prints a char
  * @types: List a of arguments

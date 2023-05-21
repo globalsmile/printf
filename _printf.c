@@ -3,8 +3,13 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
-
-void _putchar(char buffer[], int *buff_ind);
+#include "/root/printf/_putchar.c"
+#include "/root/printf/_printf_flags.c"
+#include "/root/printf/_printf_size.c"
+#include "/root/printf/_printf_width.c"
+#include "/root/printf/_printf_precisions.c"
+#include "/root/printf/_handle_printf.c"
+#include "/root/printf/_utilities.c"
 /**
  * _printf - Printf function
  * @format: format.
@@ -47,15 +52,4 @@ int _printf(const char *format, ...)
 	_putchar(buffer, &buff_ind);
 	va_end(list);
 	return (printed_chars);
-}
-/**
- * _putchar - Prints the contents of the buffer if it exist
- * @buffer: Array of chars
- * @buff_ind: Index at which to add next char, represents the length.
- */
-void _putchar(char buffer[], int *buff_ind)
-{
-	if (*buff_ind > 0)
-		write(1, &buffer[0], *buff_ind);
-	*buff_ind = 0;
 }

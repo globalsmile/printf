@@ -3,6 +3,9 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
+#include "/root/printf/_helper.c"
+#include "/root/printf/_helper_1.c"
+#include "/root/printf/_helper_2.c"
 /**
  * handle_print - Prints an argument based on its type
  * @fmt: Formatted string in which to print the arguments.
